@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        //test
+        //test25252
         Scanner sc = new Scanner(System.in);
         System.out.println("Zvol si operaci");
         System.out.println("1 pro scitani");
